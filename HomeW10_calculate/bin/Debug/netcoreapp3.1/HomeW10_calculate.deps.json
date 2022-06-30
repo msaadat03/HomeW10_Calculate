@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "HomeW10_calculate/1.0.0": {
+        "runtime": {
+          "HomeW10_calculate.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HomeW10_calculate/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
